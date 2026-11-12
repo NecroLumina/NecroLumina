@@ -32,7 +32,7 @@ A 3D endless-runner inspired by Zimbabwe’s Trababalas interchange, developed d
 A VR driving-school training experience designed to support practical driver education.
 
 ### My Portfolio
-A portfolio project intended to present my development work and creative projects. The [public repository](https://github.com/NecroLumina/My-Portfolio) currently has a placeholder README; a live site was not verified during this review.
+A portfolio project intended to present my development work and creative projects. The [public repository](https://github.com/NecroLumina/My-Portfolio) documents the current scope; the live site is not built or published yet.
 
 > Project links and visual previews for Trababalas Run, ShiftEngage, and FraudNetZW will be added once their public repositories or approved screenshots are available.
 
