@@ -25,13 +25,34 @@ A fraud-detection prototype for mobile-money transactions, with a FastAPI backen
 
 **Technologies:** Python, FastAPI, React, Vite, scikit-learn, NetworkX.
 
-### Trababalas Run
-A 3D endless-runner inspired by Zimbabwe’s Trababalas interchange, developed during my industrial attachment at Codico Software Solutions.
+### Game Development
+
+#### Trababalas Run
+
+[![Trababalas Run — official itch.io cover](https://img.itch.zone/aW1nLzI4OTA0MzcwLmpwZw==/original/iYKUBI.jpg)](https://codico-software-solutions.itch.io/trababalas-run)
+
+A collaborative Zimbabwe-inspired 3D endless runner featuring an environment inspired by the Mbudzi (Trababalas) Interchange. Developed at **Codico Software Solutions**; my involvement included contributing to development, testing, project presentation, and promotional activities. This was a team project, not a solo release.
+
+[**Play / View Game ↗**](https://codico-software-solutions.itch.io/trababalas-run)
+
+#### Sons of the Soil
+
+[![Sons of the Soil — official itch.io cover](https://img.itch.zone/aW1nLzI3NzQzMTQ4LnBuZw==/original/aFtkhB.png)](https://codico-software-solutions.itch.io/sons-of-the-soil)
+
+A collaborative third-person shooter prototype inspired by Zimbabwe’s liberation struggle. I participated in the collaborative development and creative process; this is a team project, not a game I independently developed. The itch.io page credits **Codico Software Solutions × Kufrashe Technologies**.
+
+**Verified technology/platforms:** Unity 6 · Windows · Linux · Android.
+
+[**View Game ↗**](https://codico-software-solutions.itch.io/sons-of-the-soil)
 
 ### My Portfolio
-A portfolio website presenting my development work and creative projects. The [live site](https://necrolumina.github.io/My-Portfolio/) is built with HTML, CSS, and JavaScript; its [public repository](https://github.com/NecroLumina/My-Portfolio) includes the source and deployment workflow.
+A personal portfolio website, live and continuing to develop. Built with HTML, CSS, and JavaScript. Visit the [live site](https://necrolumina.github.io/My-Portfolio/) or browse its [public repository](https://github.com/NecroLumina/My-Portfolio).
 
-> Project links and visual previews for Trababalas Run and FraudNetZW will be added when public repositories or approved screenshots are available.
+### Digital Creativity
+
+#### Digital Marketing & Creative Campaigns
+
+Freelance and Codico Software Solutions promotional work, including game promotion and digital content creation. Campaign examples can be added when approved portfolio materials are available.
 
 ## Skills & tools
 
