@@ -16,7 +16,7 @@ Zimbabwe
 
 I’m a Zimbabwe-based software engineer and creative developer, currently awaiting the formal completion of my Software Engineering graduation. I completed my industrial attachment at **Codico Software Solutions** in October 2026.
 
-I enjoy building practical software, experimenting with intelligent systems, and creating interactive experiences—from web applications and fraud-analysis tools to games and VR learning concepts. I’m interested in contributing to a professional engineering team while continuing to develop ideas into useful independent products.
+I enjoy building practical software, experimenting with intelligent systems, and creating interactive experiences—from web applications and fraud-analysis tools to games and emerging technologies. I’m interested in contributing to a professional engineering team while continuing to develop ideas into useful independent products.
 
 ## Selected work
 
@@ -28,13 +28,10 @@ A fraud-detection prototype for mobile-money transactions, with a FastAPI backen
 ### Trababalas Run
 A 3D endless-runner inspired by Zimbabwe’s Trababalas interchange, developed during my industrial attachment at Codico Software Solutions.
 
-### ShiftEngage
-A VR driving-school training experience designed to support practical driver education.
-
 ### My Portfolio
-A portfolio project intended to present my development work and creative projects. The [public repository](https://github.com/NecroLumina/My-Portfolio) documents the current scope; the live site is not built or published yet.
+A portfolio website presenting my development work and creative projects. The [live site](https://necrolumina.github.io/My-Portfolio/) is built with HTML, CSS, and JavaScript; its [public repository](https://github.com/NecroLumina/My-Portfolio) includes the source and deployment workflow.
 
-> Project links and visual previews for Trababalas Run, ShiftEngage, and FraudNetZW will be added once their public repositories or approved screenshots are available.
+> Project links and visual previews for Trababalas Run and FraudNetZW will be added when public repositories or approved screenshots are available.
 
 ## Skills & tools
 
@@ -63,12 +60,12 @@ These are areas I work with and explore; the list is not intended to imply a par
 
 - Building useful software products and end-to-end applications
 - Applied machine learning and intelligent systems
-- Game development and immersive VR experiences
+- Game development and immersive technology
 - Thoughtful product presentation, promotion, and digital creation
 
 ## Collaboration
 
-I’m open to software engineering opportunities and thoughtful collaborations across software, games, VR, and digital products. You can reach me through [GitHub](https://github.com/NecroLumina).
+I’m open to software engineering opportunities and thoughtful collaborations across software, games, emerging technologies, and digital products. You can reach me through [GitHub](https://github.com/NecroLumina).
 
 ---
 
